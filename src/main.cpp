@@ -1,6 +1,10 @@
 #include <iostream>
 
+<<<<<<< HEAD
 int Feature1GamePlayCODE()
+=======
+int main()
+>>>>>>> main
 {
     std::cout << "Hello World" << std::endl;
     return 0;
