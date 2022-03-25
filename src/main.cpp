@@ -1,10 +1,11 @@
 #include <iostream>
 
-<<<<<<< HEAD
-int Feature1GamePlayCODE()
-=======
+int mainBranchDevelopment_1()
+{
+    std::cout << "Hello World" << std::endl;
+    return 0;
+}
 int main()
->>>>>>> main
 {
     std::cout << "Hello World" << std::endl;
     return 0;
